@@ -3,3 +3,4 @@ def classify(features_train, labels_train):
     clf = GaussianNB()
     clf.fit(features_train , labels_train)
     return clf
+#max lo zayan

@@ -1,3 +1,4 @@
-# ud120
+ud120-projects
+==============
 
-homeworks for https://classroom.udacity.com/courses/ud120
+Starter project code for students taking Udacity ud120
